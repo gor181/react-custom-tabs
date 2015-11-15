@@ -19,7 +19,7 @@ const superheroTabs = [
         label: 'Ming',
         component: Ming
     }
-]
+];
 
 module.exports = React.createClass({
     displayName: 'Tabs',
